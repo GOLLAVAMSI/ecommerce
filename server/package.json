@@ -1,14 +1,14 @@
 {
-  "name": "Shema Server",
+  "name": "Vamsi Server",
   "version": "1.0.0",
-  "description": "Test Server for SHEMA",
+  "description": "Test Server for VAMSI",
   "proxy": "http://localhost:3000/1 ",
   "main": "server.js",
   "scripts": {
     "start": "node server",
     "dev": "nodemon server"
   },
-  "author": "Bereket Lemma",
+  "author": "GOLLA VAMSI",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
